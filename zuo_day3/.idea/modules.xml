@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ning10.iml" filepath="$PROJECT_DIR$/../ning10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../njxweek3/njxweek3.iml" filepath="$PROJECT_DIR$/../njxweek3/njxweek3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3_lian2.iml" filepath="$PROJECT_DIR$/week3_lian2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../week_lian1/week_lian1.iml" filepath="$PROJECT_DIR$/../week_lian1/week_lian1.iml" />
+    </modules>
+  </component>
+</project>
